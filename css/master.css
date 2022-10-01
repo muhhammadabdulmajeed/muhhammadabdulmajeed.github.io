@@ -18,7 +18,7 @@ color: red;
     background-color: black;/* set the background color here */
     color: white;/* set the text color to black here */
     font-family: Lemon milk, Arial, Helvetica, sans-serif; /* set the font here */
-    text-align: center; /* set the text alignment here */
+    text-align: left; /* set the text alignment here */
    }
 
   footer {
@@ -32,7 +32,7 @@ color: red;
    }
 
   h2 {
-    color: #075AAB;
+   color: yellow;
 
     margin-bottom: 2.5rem;
     margin-top: 2.5rem;
