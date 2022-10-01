@@ -5,19 +5,19 @@
   a {
     color: blue;
     /* set the text color to blue here */
-    text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+    text-decoration: underlined; /* This means we do not want hyperlinks to be underlined */
   }
 
   a:hover {
 color: red;
     /* set the text color to red here */
-    text-decoration: none; /* This means we do not want hyperlinks to be underlined */
+    text-decoration: underlined; /* This means we do not want hyperlinks to be underlined */
   }
 
   body {
     background-color: black;/* set the background color here */
     color: white;/* set the text color to black here */
-    font-family: Arial, Helvetica, sans-serif; /* set the font here */
+    font-family: Lemon milk, Arial, Helvetica, sans-serif; /* set the font here */
     text-align: center; /* set the text alignment here */
    }
 
